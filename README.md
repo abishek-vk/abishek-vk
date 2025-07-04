@@ -77,7 +77,7 @@
           <li>💡 Passionate about <strong>clean code</strong></li>
           <li>🧠 <strong>AI/ML enthusiast</strong></li>
           <li>🔍 <strong>Problem solver</strong> at heart</li>
-          <li>📧 <strong>abishekvenkatchalam2007@gmail.com</strong></li>
+          <li>🎈 <strong>Lifelong learner</strong></li>
         </ul>
       </td>
     </tr>
@@ -141,12 +141,6 @@
 </div>
 
 ---
-
-<h2 align="center">💭 Quote</h2>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Clean%20code%20is%20not%20just%20about%20syntax%20-%20it's%20about%20creating%20digital%20poetry&author=Abishek%20V" alt="Quote"/>
-</div>
 
 ---
 

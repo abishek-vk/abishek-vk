@@ -74,10 +74,9 @@
       <td width="50%">
         <h3>⚡ Quick Facts</h3>
         <ul>
-          <li>📊 <strong>9.68 CGPA</strong> achiever</li>
           <li>💡 Passionate about <strong>clean code</strong></li>
           <li>🧠 <strong>AI/ML enthusiast</strong></li>
-          <li>📧 <strong>abishekvenkatchalam2007@gmail.com</strong></li>
+          <li>📧<strong>abishekvenkatchalam2007@gmail.com</strong></li>
         </ul>
       </td>
     </tr>

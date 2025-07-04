@@ -75,8 +75,9 @@
         <h3>⚡ Quick Facts</h3>
         <ul>
           <li>💡 Passionate about <strong>clean code</strong></li>
-          <li>🧠 <strong>AI/ML enthusiast</strong></li>
-          <li>📧<strong>abishekvenkatchalam2007@gmail.com</strong></li>
+          <li>🧠 <strong>AI enthusiast</strong></li>
+          <li>📧<strong>passionate developer</strong></li>
+          <li>🤖<strong>lifelong learner</strong></li>
         </ul>
       </td>
     </tr>

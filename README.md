@@ -12,6 +12,31 @@
 
 ---
 
+<h2 align="center">🐍 My Contribution Journey</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abishek-vk/abishek-vk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abishek-vk/abishek-vk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abishek-vk/abishek-vk/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abishek-vk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abishek-vk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6A5ACD&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=abishek-vk&theme=tokyonight&hide_border=true&background=0d1117&stroke=6A5ACD&ring=6A5ACD&fire=ff6b6b&currStreakLabel=6A5ACD" alt="GitHub Streak" />
+</div>
+
+---
+
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
 <div align="center">
@@ -86,31 +111,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abishek-vk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abishek-vk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6A5ACD&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=abishek-vk&theme=tokyonight&hide_border=true&background=0d1117&stroke=6A5ACD&ring=6A5ACD&fire=ff6b6b&currStreakLabel=6A5ACD" alt="GitHub Streak" />
-</div>
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abishek-vk/abishek-vk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abishek-vk/abishek-vk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abishek-vk/abishek-vk/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
-
----
-
 <h2 align="center">🏆 Competitive Programming</h2>
 
 <div align="center">
@@ -139,8 +139,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
-
----
 
 ---
 

@@ -44,9 +44,8 @@
 - 🔭 Building **innovative software solutions** & **data science projects**
 - 🌱 Learning **advanced machine learning** & **cloud technologies**
 - 👯 Collaborating on **open source projects** & **cutting-edge tech**
-- 💬 Ask me about **Python, Data Science, Software Development, AI/ML**
 - 📫 Reach me: **abishekvenkatchalam2007@gmail.com**
-- ⚡ **9.68 CGPA achiever** | Building the future with code
+- ⚡ **above 9 CGPA achiever** | Building the future with code
 - 🎯 **Creating impactful software that makes a difference**
 
 <br>
@@ -95,21 +94,15 @@
 
 ## 🔧 Tech Stack
 
-**💻 Languages:** Python • C • JavaScript • SQL • HTML/CSS
-
-**📊 Data Science:** Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn
+**💻 Languages:** Python • C • MySQL • HTML/CSS
 
 **🗄️ Databases:** MySQL • PostgreSQL
 
-**🛠️ Tools:** Git • VS Code • Linux • Docker • AWS • Jupyter
+**🛠️ Tools:** Git • VS Code • Linux • Docker • Jupyter
 
 **🎯 Focus:** Machine Learning • Data Analysis • Web Development • API Design
 
 <br>
-
-## 🌟 Projects
-
-🚀 **AI-Powered Applications** • 📊 **Data Science Analytics** • 🌐 **Web Development** • 🤖 **Machine Learning Models**
 
 <br>
 

@@ -76,8 +76,8 @@
         <ul>
           <li>💡 Passionate about <strong>clean code</strong></li>
           <li>🧠 <strong>AI enthusiast</strong></li>
-          <li>📧<strong>passionate developer</strong></li>
-          <li>🤖<strong>lifelong learner</strong></li>
+          <li>📧 <strong>developer</strong></li>
+          <li>🤖 <strong>lifelong learner</strong></li>
         </ul>
       </td>
     </tr>

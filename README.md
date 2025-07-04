@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=1000&color=888888&center=true&vCenter=true&width=800&lines=Building+innovative+solutions+%7C+9.68+CGPA+achiever;Transforming+data+into+insights+%7C+Problem+solver;Creating+digital+poetry+through+clean+code" alt="Subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=1000&color=888888&center=true&vCenter=true&width=800&lines=Code+is+poetry%2C+bugs+are+just+plot+twists;Turning+coffee+into+algorithms+since+forever;Building+tomorrow's+solutions+today;Where+logic+meets+creativity" alt="Subtitle" />
 </p>
 
 ---
@@ -26,22 +26,22 @@
         <br><strong>C</strong>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-        <br><strong>JavaScript</strong>
-      </td>
-      <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
         <br><strong>MySQL</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+        <br><strong>Git</strong>
       </td>
     </tr>
     <tr>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-        <br><strong>Pandas</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+        <br><strong>HTML5</strong>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
-        <br><strong>NumPy</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+        <br><strong>CSS3</strong>
       </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
@@ -75,9 +75,9 @@
         <h3>⚡ Quick Facts</h3>
         <ul>
           <li>💡 Passionate about <strong>clean code</strong></li>
-          <li>🧠 <strong>AI enthusiast</strong></li>
-          <li>📧 <strong>developer</strong></li>
-          <li>🤖 <strong>lifelong learner</strong></li>
+          <li>🧠 <strong>AI/ML enthusiast</strong></li>
+          <li>🔍 <strong>Problem solver</strong> at heart</li>
+          <li>📧 <strong>abishekvenkatchalam2007@gmail.com</strong></li>
         </ul>
       </td>
     </tr>
@@ -138,6 +138,14 @@
   <a href="https://github.com/abishek-vk">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+</div>
+
+---
+
+<h2 align="center">💭 Quote</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Clean%20code%20is%20not%20just%20about%20syntax%20-%20it's%20about%20creating%20digital%20poetry&author=Abishek%20V" alt="Quote"/>
 </div>
 
 ---

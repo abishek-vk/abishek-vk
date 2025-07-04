@@ -41,13 +41,13 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **innovative software solutions** and **data science projects**
-- 🌱 I'm currently learning **advanced machine learning** and **cloud technologies**
-- 👯 I'm looking to collaborate on **open source projects** and **cutting-edge tech**
-- 💬 Ask me about **Python, Data Science, Software Development, or AI/ML**
-- 📫 How to reach me: **abishekvenkatchalam2007@gmail.com**
-- ⚡ Fun fact: **I maintain a 9.68 CGPA while building the future with code**
-- 🎯 Goal: **To create impactful software that makes a difference**
+- 🔭 Building **innovative software solutions** & **data science projects**
+- 🌱 Learning **advanced machine learning** & **cloud technologies**
+- 👯 Collaborating on **open source projects** & **cutting-edge tech**
+- 💬 Ask me about **Python, Data Science, Software Development, AI/ML**
+- 📫 Reach me: **abishekvenkatchalam2007@gmail.com**
+- ⚡ **9.68 CGPA achiever** | Building the future with code
+- 🎯 **Creating impactful software that makes a difference**
 
 <br>
 
@@ -78,7 +78,7 @@
 
 <br>
 
-## 🏆 Problem Solving & Achievements
+## 🏆 Competitive Programming
 
 <div align="center">
   <img src="https://leetcode.card.workers.dev/VQUNw9RTDb?theme=dark&font=baloo&extension=null" alt="LeetCode Stats"/>
@@ -86,45 +86,30 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/VQUNw9RTDb/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <img src="https://img.shields.io/badge/Problem%20Solving-Active-2EC866?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Problem Solving"/>
-  <img src="https://img.shields.io/badge/Algorithms-Enthusiast-0F9D58?style=for-the-badge&logo=algolia&logoColor=white" alt="Algorithms"/>
+  <img src="https://img.shields.io/badge/Problem%20Solver-2EC866?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Problem Solver"/>
 </div>
 
 <br>
 
-## 🔧 Technologies & Tools
+## 🔧 Tech Stack
 
-**Programming Languages:**
-- 🐍 Python, C, SQL, JavaScript, HTML/CSS
+**💻 Languages:** Python • C • JavaScript • SQL • HTML/CSS
 
-**Data Science & Analytics:**
-- 📊 Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- 📓 Jupyter Notebook, Google Colab
+**📊 Data Science:** Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn
 
-**Databases:**
-- 🗄️ MySQL, PostgreSQL
+**🗄️ Databases:** MySQL • PostgreSQL
 
-**Development Tools:**
-- 🛠️ Git, GitHub, VS Code, Linux
-- ☁️ Docker, AWS (learning)
+**🛠️ Tools:** Git • VS Code • Linux • Docker • AWS • Jupyter
 
-**Specializations:**
-- 🤖 Machine Learning, Data Analysis
-- 🌐 Web Development, API Design
+**🎯 Focus:** Machine Learning • Data Analysis • Web Development • API Design
 
 <br>
 
-## 🌟 Featured Projects
+## 🌟 Projects
 
-🚀 **AI-Powered Applications** - Building intelligent systems that solve real-world problems
-
-📊 **Data Science Projects** - Analyzing complex datasets to extract meaningful insights
-
-🌐 **Web Development** - Creating responsive and user-friendly web applications
-
-🤖 **Machine Learning Models** - Developing predictive models for various domains
+🚀 **AI-Powered Applications** • 📊 **Data Science Analytics** • 🌐 **Web Development** • 🤖 **Machine Learning Models**
 
 <br>
 

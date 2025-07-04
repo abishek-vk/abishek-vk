@@ -3,11 +3,11 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Abishek+V+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Data+Scientist+%F0%9F%93%8A;AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=2000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Abishek+V+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Data+Scientist+%F0%9F%93%8A;AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=1000&color=888888&center=true&vCenter=true&width=800&lines=Code+is+poetry%2C+bugs+are+just+plot+twists;Turning+coffee+into+algorithms+since+forever;Building+tomorrow's+solutions+today;Where+logic+meets+creativity" alt="Subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=2000&color=888888&center=true&vCenter=true&width=800&lines=Code+is+poetry%2C+bugs+are+just+plot+twists;Turning+coffee+into+algorithms+since+forever;Building+tomorrow's+solutions+today;Where+logic+meets+creativity" alt="Subtitle" />
 </p>
 
 ---

@@ -142,14 +142,6 @@
 
 ---
 
-<h2 align="center">💭 Quote</h2>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Clean%20code%20is%20not%20just%20about%20syntax%20-%20it's%20about%20creating%20digital%20poetry&author=Abishek%20V" alt="Quote"/>
-</div>
-
----
-
 <div align="center">
   <h3>💖 Thanks for visiting!</h3>
   <p>Feel free to explore my repositories and don't hesitate to reach out!</p>

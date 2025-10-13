@@ -93,7 +93,6 @@
 
 <br clear="both">
 
-
 ---
 
 <h2 align="center">📊 GitHub Analytics</h2>
@@ -112,7 +111,7 @@
 <h2 align="center">🏆 Competitive Programming</h2>
 
 <div align="center">
-  <img src="https://leetcode.com/u/abivk/?theme=dark&font=baloo&extension=null" alt="LeetCode Stats" width="400"/>
+  <img src="https://leetcard.jacoblin.cool/abivk?theme=dark&font=Baloo%202&ext=activity" alt="LeetCode Stats" width="500"/>
 </div>
 
 <div align="center" style="margin-top: 20px;">

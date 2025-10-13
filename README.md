@@ -112,7 +112,7 @@
 <h2 align="center">🏆 Competitive Programming</h2>
 
 <div align="center">
-  <img src="https://leetcode.card.workers.dev/VQUNw9RTDb?theme=dark&font=baloo&extension=null" alt="LeetCode Stats" width="400"/>
+  <img src="https://leetcode.com/u/abivk?theme=dark&font=baloo&extension=null" alt="LeetCode Stats" width="400"/>
 </div>
 
 <div align="center" style="margin-top: 20px;">

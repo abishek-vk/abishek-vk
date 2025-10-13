@@ -116,7 +116,7 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <a href="https://leetcode.com/u/VQUNw9RTDb/">
+  <a href="https://leetcode.com/u/abivk/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <img src="https://img.shields.io/badge/Problem%20Solver-2EC866?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Problem Solver"/>

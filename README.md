@@ -21,7 +21,7 @@
 
 ---
 
-<h2 align="center">👨‍💻 Professional Profile</h2>
+<h2 align="center">👨‍💻 About me</h2>
 
 <div align="center">
   <p style="font-size: 16px; line-height: 1.8; max-width: 800px; margin: 0 auto;">
@@ -85,8 +85,8 @@
         <br><strong>C</strong>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-        <br><strong>JavaScript</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+        <br><strong>Java</strong>
       </td>
     </tr>
   </table>

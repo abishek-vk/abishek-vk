@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=2000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Abishek+V+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Data+Scientist+%F0%9F%93%8A;FullStack Developer+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=2000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Abishek+V+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Data+Scientist+%F0%9F%93%8A;Full+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -21,45 +21,53 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
-
-<p align="center">
-  <em>A passionate software developer who transforms ideas into elegant code, constantly exploring the intersection of AI, data science, and innovative problem-solving. I thrive on challenges, embrace continuous learning, and believe that every line of code tells a story.</em>
-</p>
+<h2 align="center">👨‍💻 Professional Profile</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🎯_Focus-Building%20Impact-6A5ACD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💡_Philosophy-Clean%20Code-ff6b6b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🧠_Mindset-Always%20Learning-2EC866?style=for-the-badge" />
+  <p style="font-size: 16px; line-height: 1.8; max-width: 800px; margin: 0 auto;">
+    <strong>Full Stack Developer</strong> | <strong>Data Scientist</strong> | <strong>AI Enthusiast</strong>
+  </p>
 </div>
 
 <br>
 
 <div align="center">
-  <table>
+  <table border="0" cellpadding="10">
     <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/96/000000/code.png" width="60" alt="Code"/>
-        <br><strong>What I Do</strong>
-        <p><em>Crafting innovative software solutions<br>that solve real-world problems</em></p>
+      <td align="left" style="border: none;">
+        <h3>🎯 Core Expertise</h3>
+        <ul style="list-style-type: none; padding: 0;">
+          <li>✦ Full-stack web development with modern frameworks</li>
+          <li>✦ Data analysis and machine learning implementation</li>
+          <li>✦ Database design and optimization</li>
+          <li>✦ Cloud technologies and containerization</li>
+        </ul>
       </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/96/000000/brain.png" width="60" alt="Learn"/>
-        <br><strong>What I'm Learning</strong>
-        <p><em>Advanced Techonlogies in Full Stack,developing an innovating website</em></p>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60" alt="Goals"/>
-        <br><strong>Where I'm Heading</strong>
-        <p><em>Building AI-powered applications<br>that make a difference</em></p>
+      <td align="left" style="border: none;">
+        <h3>🚀 Current Endeavors</h3>
+        <ul style="list-style-type: none; padding: 0;">
+          <li>✦ Exploring advanced full-stack technologies</li>
+          <li>✦ Developing innovative web applications</li>
+          <li>✦ Building AI-powered solutions</li>
+          <li>✦ Contributing to open-source projects</li>
+        </ul>
       </td>
     </tr>
   </table>
 </div>
 
+<div align="center" style="margin-top: 20px;">
+  <img src="https://img.shields.io/badge/Code%20Quality-First-6A5ACD?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Innovation-Driven-ff6b6b?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Impact-Focused-2EC866?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Learning-Continuous-FFA116?style=for-the-badge&labelColor=1a1b27" />
+</div>
+
 ---
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
+
+<h3 align="center">Languages & Frameworks</h3>
 
 <div align="center">
   <table>
@@ -69,18 +77,25 @@
         <br><strong>Python</strong>
       </td>
       <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <br><strong>TypeScript</strong>
+      </td>
+      <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
         <br><strong>C</strong>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-        <br><strong>MySQL</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-        <br><strong>Git</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <br><strong>JavaScript</strong>
       </td>
     </tr>
+  </table>
+</div>
+
+<h3 align="center">Web Technologies</h3>
+
+<div align="center">
+  <table>
     <tr>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
@@ -91,12 +106,37 @@
         <br><strong>CSS3</strong>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
-        <br><strong>Jupyter</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+        <br><strong>React</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+        <br><strong>Node.js</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3 align="center">Tools & Platforms</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <br><strong>MySQL</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+        <br><strong>Git</strong>
       </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
         <br><strong>Docker</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
+        <br><strong>Jupyter</strong>
       </td>
     </tr>
   </table>
@@ -149,8 +189,8 @@
 ---
 
 <div align="center">
-  <h3>💖 Thanks for visiting!</h3>
-  <p>Feel free to explore my repositories and don't hesitate to reach out!</p>
+  <h3>💼 Open to Opportunities</h3>
+  <p>Feel free to explore my repositories and connect for collaborations, opportunities, or tech discussions!</p>
   <img src="https://komarev.com/ghpvc/?username=abishek-vk&style=for-the-badge&color=6A5ACD&label=Profile+Views" alt="Profile Views"/>
 </div>
 

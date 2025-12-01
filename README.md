@@ -12,28 +12,46 @@
 
 ---
 
+<h2 align="center">🐍 My Contribution Journey</h2>
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Github contribution grid snake animation" />
+</div>
+
+<br clear="both">
+
+---
+
 <h2 align="center">🚀 About Me</h2>
 
+<p align="center">
+  <em>A passionate software developer who transforms ideas into elegant code, constantly exploring the intersection of AI, data science, and innovative problem-solving. I thrive on challenges, embrace continuous learning, and believe that every line of code tells a story.</em>
+</p>
+
 <div align="center">
-  <table border="0">
+  <img src="https://img.shields.io/badge/🎯_Focus-Building%20Impact-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💡_Philosophy-Clean%20Code-ff6b6b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠_Mindset-Always%20Learning-2EC866?style=for-the-badge" />
+</div>
+
+<br>
+
+<div align="center">
+  <table>
     <tr>
-      <td width="50%">
-        <h3>👨‍💻 Current Focus</h3>
-        <ul>
-          <li>🔭 Building <strong>innovative software solutions</strong></li>
-          <li>🌱 Learning <strong>advanced ML & cloud tech</strong></li>
-          <li>👯 Contributing to <strong>open source projects</strong></li>
-          <li>🎯 Creating <strong>impactful software</strong></li>
-        </ul>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/96/000000/code.png" width="60" alt="Code"/>
+        <br><strong>What I Do</strong>
+        <p><em>Crafting innovative software solutions<br>that solve real-world problems</em></p>
       </td>
-      <td width="50%">
-        <h3>⚡ Quick Facts</h3>
-        <ul>
-          <li>💡 Passionate about <strong>clean code</strong></li>
-          <li>🧠 <strong>AI/ML enthusiast</strong></li>
-          <li>🔍 <strong>Problem solver</strong> at heart</li>
-          <li>🎈 <strong>Lifelong learner</strong></li>
-        </ul>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/96/000000/brain.png" width="60" alt="Learn"/>
+        <br><strong>What I'm Learning</strong>
+        <p><em>Advanced ML algorithms,<br>cloud architecture & scalable systems</em></p>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60" alt="Goals"/>
+        <br><strong>Where I'm Heading</strong>
+        <p><em>Building AI-powered applications<br>that make a difference</em></p>
       </td>
     </tr>
   </table>
@@ -83,15 +101,6 @@
     </tr>
   </table>
 </div>
-
----
-
-<h2 align="center">🐍 My Contribution Journey</h2>
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Github contribution grid snake animation" />
-</div>
-
-<br clear="both">
 
 ---
 

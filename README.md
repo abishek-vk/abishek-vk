@@ -46,7 +46,7 @@
       <td align="center">
         <img src="https://img.icons8.com/fluency/96/000000/brain.png" width="60" alt="Learn"/>
         <br><strong>What I'm Learning</strong>
-        <p><em>Advanced ML algorithms,<br>cloud architecture & scalable systems</em></p>
+        <p><em>Advanced Techonlogies in Full Stack,developing an innovating website</em></p>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60" alt="Goals"/>

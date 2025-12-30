@@ -90,34 +90,33 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abishek-vk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abishek-vk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6A5ACD&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abishek-vk&theme=tokyonight" alt="Profile Details" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abishek-vk&theme=tokyonight&hide_border=true&background=0d1117&stroke=6A5ACD&ring=6A5ACD&fire=ff6b6b&currStreakLabel=6A5ACD" alt="GitHub Streak"/>
-</p>
-
-<details>
-<summary>📈 More Stats</summary>
-<br/>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abishek-vk&theme=tokyonight" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abishek-vk&theme=tokyonight" alt="Stats" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abishek-vk&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abishek-vk&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6A5ACD&line=6A5ACD&point=ff6b6b" alt="Activity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abishek-vk&theme=tokyonight" alt="Repos Per Language" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abishek-vk&theme=tokyonight" alt="Most Commit Language" width="49%"/>
 </p>
 
-</details>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abishek-vk&theme=tokyonight&hide_border=true&background=0d1117&stroke=6A5ACD&ring=6A5ACD&fire=ff6b6b&currStreakLabel=6A5ACD" alt="GitHub Streak" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abishek-vk&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6A5ACD&line=6A5ACD&point=ff6b6b" alt="Activity Graph" width="100%"/>
+</p>
 
 ---
 
 ## 🏆 Competitive Programming
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/abivk?theme=dark&font=Baloo%202&ext=activity" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/abivk?theme=dark&font=Baloo%202&ext=activity" alt="LeetCode Stats" width="100%"/>
 </p>
 
 <p align="center">
@@ -125,6 +124,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <img src="https://img.shields.io/badge/Problem%20Solver-2EC866?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Problem Solver"/>
+  <img src="https://img.shields.io/badge/90+%20Problems-Solved-6A5ACD?style=for-the-badge" alt="Problems Solved"/>
 </p>
 
 ---

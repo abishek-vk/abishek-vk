@@ -86,13 +86,12 @@
 
 ---
 
-<h2 align="center">## 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abishek-vk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abishek-vk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=abishek-vk&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abishek-vk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abishek-vk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
 
 <div align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=abishek-vk&theme=tokyonight&hide_border=true" />
